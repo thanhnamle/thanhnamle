@@ -1,16 +1,36 @@
-## Hi there 👋
+## 👋 Hi, I'm Thanh Nam
 
-<!--
-**thanhnamle/thanhnamle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I am a Software Development student at **Swinburne University**, currently pursuing a degree in **Computer Science / Software Development**.  
+💡 I am passionate about building software solutions and continuously improving my programming skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I'm currently working on
+- Learning and practicing **web development**
+- Building small projects using **Java** and **web technologies**
+- Improving my understanding of **backend development** and system design  
+- Preparing for **Software Developer / Web Developer Internship** opportunities
+
+---
+
+## 🛠️ Tools & Technologies
+- **Languages:** Java, HTML, CSS, JavaScript, SQL  
+- **Backend:** Java, Spring Boot (learning)  
+- **Frontend:** HTML, CSS, basic React  
+- **Databases:** MySQL  
+- **Tools:** Git, GitHub, IntelliJ IDEA, VS Code  
+- **Others:** Basic REST APIs, OOP principles
+
+---
+
+## 🌱 Career Goals
+- Become a **Web Developer**
+- Grow into a **Full-stack Developer** in the future
+- Gain real-world experience through internships and collaborative projects
+
+---
+
+## 📫 How to reach me
+- 📧 Email: thanhnam0810.tnl@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/nam-le-b537032bb  
+- 💻 GitHub: You're already here 🙂
