@@ -32,5 +32,4 @@
 
 ## 📫 How to reach me
 - 📧 Email: thanhnam0810.tnl@gmail.com  
-- 💼 LinkedIn: www.linkedin.com/in/namle123  
-- 💻 GitHub: You're already here 🙂
+- 💼 LinkedIn: www.linkedin.com/in/namle123
