@@ -50,9 +50,9 @@ Currently
 <!-- ======================= TECH STACK ======================= -->
 ⚡ Tech Stack
 Languages
-<p> <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,sql,python" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,python,cs" /> </p>
 Frameworks & Development
-<p> <img src="https://skillicons.dev/icons?i=spring,react,angular,tailwind,vite" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=spring,react,angular,tailwind,vite,dotnet" /> </p>
 Tools & Database
 <p> <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,idea,postman" /> </p> <!-- ======================= FOCUS ======================= -->
 🎯 What I'm Focusing On
@@ -72,7 +72,8 @@ Angular
 Responsive UI
 API integration
 Modern frontend architecture
-</td> </tr> </table> <!-- ======================= PROJECTS ======================= -->
+</td> </tr> </table> 
+<!-- ======================= PROJECTS ======================= -->
 🚀 Featured Projects
 🧭 Traffic-Based Route Guidance System
 
