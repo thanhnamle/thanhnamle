@@ -138,18 +138,6 @@ A frontend project inspired by modern accommodation platforms, focused on UI dev
   <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<!-- ======================= GITHUB ======================= -->
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=thanhnamle&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhnamle&layout=compact&hide_border=true&theme=transparent" height="170" />
-
-<img src="https://streak-stats.demolab.com?user=thanhnamle&theme=transparent&hide_border=true" width="70%" />
-
-</div>
-
 <!-- ======================= JOURNEY ======================= -->
 ## 🌱 My Development Journey
 
