@@ -14,7 +14,7 @@ I enjoy turning ideas into clean, functional and meaningful software.
   <a href="https://www.linkedin.com/in/namle123">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://portfolio-v1-lemon-rho.vercel.app">
+  <a href="https://thanhnamle.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
@@ -114,7 +114,7 @@ A modern personal portfolio designed to showcase my projects, skills and develop
 <a href="https://github.com/thanhnamle/Portfolio-V1">
   <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://portfolio-v1-lemon-rho.vercel.app">
+<a href="https://thanhnamle.vercel.app">
   <img src="https://img.shields.io/badge/Live_Demo-111827?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
@@ -125,16 +125,6 @@ A small e-commerce style web application built to practice modern frontend devel
 **Tech:** TypeScript • Web Development
 
 <a href="https://github.com/thanhnamle/Mini-Shop">
-  <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-### 🏠 Airbnb Clone
-
-A frontend project inspired by modern accommodation platforms, focused on UI development and responsive layouts.
-
-**Tech:** TypeScript • Frontend Development
-
-<a href="https://github.com/thanhnamle/Airbnb-Clone-Project">
   <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
